@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Cache's CV](files/MyCV.pdf)
