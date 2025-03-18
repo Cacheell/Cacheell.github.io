@@ -71,7 +71,7 @@ for row, item in research.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    md += """collection: research"""
     
     md += """\npermalink: /publication/""" + html_filename
     
