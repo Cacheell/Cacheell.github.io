@@ -24,10 +24,12 @@ author:
   # Biographic information
   avatar           : "ipumsmug2.png"
   name             : "Cache Ellsworth"
-  pronouns         : "he/him"  
-  bio              : "Econ PhD"
+  pronouns         : #"he/him"  
+  bio              : | 
+    Econ PhD
+    UW-Madison
   location         : "Madison, WI"
-  employer         : "UW-Madison"
+  employer         : #"UW-Madison"
   uri              : # URL
   email            : "crellsworth@wisc.edu" 
 
@@ -59,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "cacheellsworth"
+  linkedin         : #"cacheellsworth"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
