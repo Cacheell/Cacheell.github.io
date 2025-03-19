@@ -3,19 +3,18 @@
 {% include base_path %}
 
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-</head>
-<body>
-  <header>
-    <h1>{{ site.author.name }}</h1>
-    <p>{{ site.author.bio }}</p>
-    <p>{{ site.author.location }}</p>
-    <p><a href="{{ site.author.googlescholar }}">Google Scholar</a></p>
-  </header>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+    
+  <body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
   <main>
     <section class="research">
       <h2>Research</h2>
