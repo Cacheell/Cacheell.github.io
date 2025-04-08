@@ -7,6 +7,6 @@ excerpt: 'What are the causal effects of parental wealth on children’s outcome
 date: 2025-03-01
 venue: #'Journal of Labor Economics'
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_3_WnVwAAAAJ&citation_for_view=_3_WnVwAAAAJ:2osOgNQ5qMEC'
+paperurl: # 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_3_WnVwAAAAJ&citation_for_view=_3_WnVwAAAAJ:2osOgNQ5qMEC'
 #citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
