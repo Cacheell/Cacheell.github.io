@@ -78,13 +78,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-#publication_category:
-#  working_papers:
-#    title: 'Working Papers'
-#  conferences:
-#    title: 'Conference Papers'
-#  publications:
-#    title: 'Publications'
+publication_category:
+  working_papers:
+    title: 'Working Papers'
+  conferences:
+    title: 'Conference Papers'
+  publications:
+    title: 'Publications'
 
 research_category:
   working_papers:
