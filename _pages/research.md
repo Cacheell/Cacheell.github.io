@@ -8,26 +8,16 @@ author_profile: true
 
 ## Working Papers
 
+<br/>**The Long-Run Effects of Parental Wealth Shocks on Children** (with Adrian Haws, Ian Fillmore, and Joseph Price) [[pdf from aeaweb.org]](https://www.aeaweb.org/conference/2024/program/paper/ry4ENk8e) <br/>
 
-
-<br/>**Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2024.pdf) See also [NBER WP30134](https://www.nber.org/papers/w30134), and [non-technical summary](https://www.nber.org/digest/202210/temporary-layoffs-and-dynamics-cyclical-unemployment) in the NBER Digest.<br/>
-Latest draft: July 2024 <br/>
-Revise and resubmit (second round), _American Economic Review_ <br/>
-> We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated sizable employment gains, in part by significantly reducing loss-of-recall.  
-
-<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2024.pdf) [[slides]](https://christopher-huckfeldt.github.io/files/GHS2024_slides.pdf) [[data]](https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows) (See also [NBER WP31770](https://www.nber.org/papers/w31770))<br/>
-Latest draft: October 2024 <br/>
-Revise and resubmit, _Review of Economic Studies_ <br/>
-> Monetary policy is conventionally understood to influence labor demand, with little effect on labor supply. We estimate the response of labor market flows to high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches and find evidence that, in contrast to the consensus view, a contractionary monetary policy shock leads to a significant increase in labor supply: workers reduce the rate at which they quit jobs to non-employment, and non-employed individuals increase their job-seeking behavior. These effects are quantitatively important: holding supply-driven labor market flows constant, the decline in employment from a contractionary monetary policy shock would be twice as large. To interpret our findings, we estimate a heterogeneous agent model with frictional labor markets and an active labor supply margin. The model rationalizes existing estimates of small labor supply responses to idiosyncratic transfers with our new evidence of a large labor supply response to an aggregate shock.
-
+What are the causal effects of parental wealth on children’s outcomes? Beginning with the famous land run of 1889, initial homesteaders in Oklahoma Territory raced to claim plots of land unaware that oil lay hidden beneath their feet. We link initial homesteaders to the locations of oil discoveries and develop new methods to link them to their children in the 1940 census, which allows us to examine the impacts of parental wealth shocks on children’s wealth, income, labor supply, education, and migration.
 
 
 ## Work in progress
 
-<br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/MEoAS_slides.pdf) (_Under revision with Seb Graves, see prior version [here](https://christopher-huckfeldt.github.io/files/MEoAS.pdf)._)<br/>  
-> During recessions, a greater fraction of non-employed workers who want work actively search for a job. Simultaneously, the job-finding probabilities of such non-employed active searchers converge to those of the non-employed who want a job but are not engaged in any form of active search. I document these findings and show that they are symptomatic of a form of "crowding-out" of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I establish that active search plays a less important role for finding a job during a recession.
+<br/>**Specialization, Skill Mismatch, and Labor Market Risk** (with Fernando Lopes) [[pdf from aeaweb.org]](https://www.aeaweb.org/conference/2024/program/paper/ry4ENk8e) <br/>
 
- 
+In this paper, we build a model of the labor market with search frictions in which workers choose how much to invest in a multidimensional set of skills before entering the labor force. We show that search frictions have important consequences for skill allocation, distorting skill choices and affecting the quality of matches in the labor market. Workers become less specialized as a way to insure against labor market risk, reducing the match value between workers and firms. This induces a novel type of cost of search frictions, which we call skill distortion. We propose a method to separately identify the output cost of skill distortion in our model. We show it is quantitatively relevant and that search frictions account for around one third of total mismatch when compared to preference heterogeneity. We also show that pre-labor market skill accumulation can have important consequences for the design of unemployment insurance policy by endogenously reducing mismatch in response to more generous insurance benefits.
 
 ## Publications
 
