@@ -9,7 +9,7 @@ author_profile: true
 ECON 101, Principles of Microeconomics, Alan Sorensen, _University of Wisconsin - Madison_, Spring 2025
 
 ## Previous semesters
-ECON 101, Principles of Microeconomics, Steve Trost, _University of Wisconsin - Madison_, Spring & Fall 2024
+<span style="font-size: 12px;">ECON 101, Principles of Microeconomics, Steve Trost, _University of Wisconsin - Madison_, Spring & Fall 2024
 
 ECON 101, Principles of Microeconomics, David Johnson, _University of Wisconsin - Madison_, Fall 2023
 
