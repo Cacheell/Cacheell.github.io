@@ -9,4 +9,6 @@ redirect_from:
 
 <hr style="border: 1px solid gray;">
 
-I am a fourth year Economics PhD student at the University of Wisconsin---Madison. My field is in Macroeconomics with my work focusing on labor economics. My work tries to understand wage disparities by exploring the role of human capital and it's effect on inequality.
+I am an Economics PhD candidate at the University of Wisconsin---Madison, and I am on the 2026--2027 academic job market. My field is Macroeconomics, with my work focusing on labor economics. My work tries to understand wage disparities by exploring the role of human capital and its effect on inequality.
+
+You can download my CV [here](/files/MyCV.pdf).

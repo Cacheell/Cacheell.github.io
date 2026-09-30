@@ -5,10 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 ---
-## Current semester  
-<span style="font-size: 15px;">ECON 101, Principles of Microeconomics, Alan Sorensen, _University of Wisconsin - Madison_, Spring 2025</span>
-
-## Previous semesters
+## Teaching assistant experience
+<span style="font-size: 15px;">ECON 101, Principles of Microeconomics, Steve Trost, _University of Wisconsin - Madison_, Spring 2026</span><br>
+<span style="font-size: 15px;">ECON 101, Principles of Microeconomics, Alan Sorensen, _University of Wisconsin - Madison_, Spring 2025</span><br>
 <span style="font-size: 15px;">ECON 101, Principles of Microeconomics, Steve Trost, _University of Wisconsin - Madison_, Spring & Fall 2024</span><br>
 <span style="font-size: 15px;">ECON 101, Principles of Microeconomics, David Johnson, _University of Wisconsin - Madison_, Fall 2023</span><br>
 <span style="font-size: 15px;">ECON 455, Behavioral Economics, Matthew Friedman, _University of Wisconsin - Madison_, Summer 2023</span><br>
