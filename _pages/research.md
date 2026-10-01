@@ -6,7 +6,18 @@ author_profile: true
 ---
 ---
 
-## Working Paper(s)
+## Working Papers
+
+<div class="paper">
+  <p class="paper__title"><strong>The Collapse of the Long Work Week</strong> <span class="paper__badge">Job Market Paper</span></p>
+  <div class="paper__body">
+    <figure class="paper__figure">
+      <img src="/images/research/long-work-week.png" alt="Share of college graduates and high school graduates working 50 or more hours per week, CPS-ASEC, 1975–2022">
+      <figcaption>The share of college graduates working 50+ hours a week peaked near 32% in 1999 and has fallen by almost half since, while long hours among high school graduates held steady.</figcaption>
+    </figure>
+    <p class="paper__abstract">Among U.S. college graduates, the long workweek has largely disappeared. Between 1985–94 and 2024–26, the share working 50 or more hours fell from 22 to 12 percent, and the share working exactly 40 rose from 50 to 70 percent. Mean hours fell by less than two hours per week over the same period. The decline is generational. About 70 percent of it comes from newer cohorts replacing older ones, and each cohort works fewer long weeks than the one before it at every age. Among salaried workers, the wage penalty for long weeks disappeared without a premium replacing it, and SIPP and CPS panels show that this reflects a change in who works long hours rather than in how jobs pay for them. Finally, about 40 percent of persistent differences in hours are attributable to job rather than worker fixed effects. Together, these facts point to a change in jobs rather than in workers' preferences. I build a life-cycle model of directed on-the-job search with human capital accumulation, in which firms design positions that either reward hours beyond 40 or cap them. A rise in the cost of offering long-hours positions reproduces the collapse onto 40, its cohort structure, and the flat price of hours.</p>
+  </div>
+</div>
 
 <div class="paper">
   <p class="paper__title"><strong>The Long-Run Effects of Parental Wealth Shocks on Children</strong> (with Adrian Haws, Ian Fillmore, and Joseph Price) <a href="https://www.aeaweb.org/conference/2024/program/paper/ry4ENk8e">[pdf from aeaweb.org]</a></p>

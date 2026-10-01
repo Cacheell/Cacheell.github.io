@@ -16,7 +16,7 @@
       @include clearfix;
       padding: 1em 1em 1em;
       font-family: $sans-serif-narrow;
-      max-width: $x-large;
+      max-width: $site-max-width;
   
       nav {
         z-index: 10;
