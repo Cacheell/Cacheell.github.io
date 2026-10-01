@@ -404,6 +404,11 @@
 .paper {
   margin-bottom: 2em;
 
+  & + & {
+    padding-top: 2em;
+    border-top: 1px solid $border-color;
+  }
+
   &__title {
     margin: 0 0 1em;
   }

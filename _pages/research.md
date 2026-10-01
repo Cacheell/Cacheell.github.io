@@ -31,8 +31,6 @@ author_profile: true
   <p class="paper__presentations"><em>Selected presentations</em> — NBER Summer Institute on Children and Families (2025), <strong>Southern Economics Association (2024)</strong>, <strong>UW–Madison Macro Seminar (2025)</strong>, <strong>UW–Madison Macro Seminar (planned)</strong>, Economic History Association @ ASSA (2024)</p>
 </div>
 
-## Work(s) in progress
-
 <div class="paper">
   <p class="paper__title"><strong>Specialization, Skill Mismatch, and Labor Market Risk</strong> (with Fernando Lopes)</p>
   <div class="paper__body">

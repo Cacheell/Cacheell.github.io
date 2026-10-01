@@ -13,7 +13,13 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% comment %} Version PDFs by build time so browsers don't show a stale CV {% endcomment %}
+            {% if link.url contains '.pdf' %}
+              {% capture version %}?v={{ site.time | date: '%s' }}{% endcapture %}
+            {% else %}
+              {% assign version = '' %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}{{ version }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
