@@ -17,7 +17,7 @@ author_profile: true
     </figure>
     <p class="paper__abstract">We leverage a historical natural experiment to provide new evidence on the long-run causal effects of parental wealth. Beginning with the Land Rush of 1889, settlers raced to claim homesteads in Oklahoma Territory, unaware of oil fields hidden beneath their feet. Two decades later, wells began dotting the landscape. Homesteaders who previously earned a living from the land began to receive sizable production royalties. We link land patents, oil wells, and census records to follow homesteaders and their children over decades, and leverage highly local variation to compare homesteaders who likely received royalties with their neighbors who did not. We find that oil wealth shocks caused homesteaders to retire and move to towns and cities at higher rates. Their children received an additional year of education and were 16 percentage points more likely to graduate from high school. Children owned more valuable homes and may have worked in higher-earning occupations. We further identify that children in close proximity to oil extraction but without a parental wealth shock worked in higher-earning occupations and married earlier, but owned less valuable homes and may have died earlier than children farther from oil.</p>
   </div>
-  <p class="paper__presentations"><em>Selected presentations</em> — NBER Summer Institute on Children and Families (2025), Southern Economics Association (2024)*, UW–Madison Macro Seminar (2025)*, UW–Madison Macro Seminar (planned)*, Economic History Association @ ASSA (2024)</p>
+  <p class="paper__presentations"><em>Selected presentations</em> — NBER Summer Institute on Children and Families (2025), <strong>Southern Economics Association (2024)</strong>, <strong>UW–Madison Macro Seminar (2025)</strong>, <strong>UW–Madison Macro Seminar (planned)</strong>, Economic History Association @ ASSA (2024)</p>
 </div>
 
 ## Work(s) in progress
@@ -31,7 +31,7 @@ author_profile: true
     </figure>
     <p class="paper__abstract">In this paper, we build a model of the labor market with search frictions in which workers choose how much to invest in a multidimensional set of skills before entering the labor force. We show that search frictions have important consequences for skill allocation, distorting skill choices and affecting the quality of matches in the labor market. Workers become less specialized as a way to insure against labor market risk, reducing the match value between workers and firms. This induces a novel type of cost of search frictions, which we call skill distortion. We propose a method to separately identify the output cost of skill distortion in our model. We show it is quantitatively relevant and that search frictions account for around one third of total mismatch when compared to preference heterogeneity. We also show that pre-labor market skill accumulation can have important consequences for the design of unemployment insurance policy by endogenously reducing mismatch in response to more generous insurance benefits.</p>
   </div>
-  <p class="paper__presentations"><em>Selected presentations</em> — Midwest Economics Association (2024)*, BYU Economics Graduate Student Conference (2024)*, UW–Madison Summer Research Fellowship (2024)*</p>
+  <p class="paper__presentations"><em>Selected presentations</em> — <strong>Midwest Economics Association (2024)</strong>, <strong>BYU Economics Graduate Student Conference (2024)</strong>, <strong>UW–Madison Summer Research Fellowship (2024)</strong></p>
 </div>
 
 ## Publications
@@ -48,4 +48,4 @@ author_profile: true
   </div>
 </div>
 
-<p class="paper__note">* Presented by me.</p>
+<p class="paper__note">(My presentations are bolded.)</p>
