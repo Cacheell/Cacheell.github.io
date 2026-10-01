@@ -446,4 +446,11 @@
     flex: 1;
     margin: 0;
   }
+
+  &__presentations,
+  &__note {
+    margin: 1em 0 0;
+    color: $gray;
+    font-size: $type-size-6;
+  }
 }
