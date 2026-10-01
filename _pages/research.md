@@ -20,7 +20,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <p class="paper__title"><strong>The Long-Run Effects of Parental Wealth Shocks on Children</strong> (with Adrian Haws, Ian Fillmore, and Joseph Price) <a href="https://www.aeaweb.org/conference/2024/program/paper/ry4ENk8e">[pdf from aeaweb.org]</a></p>
+  <p class="paper__title"><strong>The Long-Run Effects of Parental Wealth Shocks on Children</strong> (with Ian Fillmore, Adrian Haws, and Joseph P. Price) <a href="https://www.aeaweb.org/conference/2024/program/paper/ry4ENk8e">[pdf from aeaweb.org]</a></p>
   <div class="paper__body">
     <figure class="paper__figure">
       <img src="/images/research/parental-wealth.png" alt="Effect of oil discovery on children's years of education, by approximate age at discovery">
@@ -49,7 +49,7 @@ author_profile: true
 
 <div class="paper">
   <p class="paper__title"><strong>Reconciling Occupational Mobility in the Current Population Survey</strong> (with Christian vom Lehn and Zachary Kroff) <a href="https://www.journals.uchicago.edu/doi/10.1086/718563">[journal version]</a><br>
-  <em>Journal of Labor Economics</em>, 2020</p>
+  <em>Journal of Labor Economics</em>, 2022, 40(4): 1005–1051</p>
   <div class="paper__body">
     <figure class="paper__figure">
       <img src="/images/research/occupational-mobility.jpg" alt="Retrospective and predicted occupational mobility rates, 1980–2018">
@@ -57,6 +57,12 @@ author_profile: true
     </figure>
     <p class="paper__abstract">Measuring occupational mobility from the Current Population Survey using retrospective or longitudinal methods generates substantially different outcomes, in both levels and trends. Using a generalized method of moments technique, we estimate the level of occupational mobility and the measurement error in both of these measures for 1981–2018. We estimate that occupational mobility has been trending down, particularly since 2000, consistent with retrospective measures of occupational mobility. However, estimated mobility is 2–3 percentage points or 60%–70% higher than retrospective measures. Measurement error in longitudinal measures is large and has been worsening over time.</p>
   </div>
+</div>
+
+## Resting Papers
+
+<div class="paper">
+  <p class="paper__title"><strong>The Increasing Scarring Effect of Job Loss</strong> (<em>second-year field paper</em>)</p>
 </div>
 
 <p class="paper__note">(My presentations are bolded.)</p>
