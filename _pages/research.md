@@ -9,7 +9,7 @@ author_profile: true
 ## Working Papers
 
 <div class="paper">
-  <p class="paper__title"><strong>The Collapse of the Long Work Week</strong> <span class="paper__badge">Job Market Paper</span></p>
+  <p class="paper__title"><strong>The Collapse of the Long Work Week</strong></p>
   <div class="paper__body">
     <figure class="paper__figure">
       <img src="/images/research/long-work-week.png" alt="Share of college graduates and high school graduates working 50 or more hours per week, CPS-ASEC, 1975–2022">
